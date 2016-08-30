@@ -8,3 +8,6 @@ git config --global user.name "enlopezl"
 
 TAMBIEN LO CAMBIO
 PARA EL 3ER COMMIT
+
+
+se borraron 3 archivo spara el 6 commit
