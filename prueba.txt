@@ -2,3 +2,9 @@ hola
 
 esta es una prueba más
 larga
+
+git config --global user.email "enlopezl@yahoo.com"
+git config --global user.name "enlopezl"
+
+TAMBIEN LO CAMBIO
+PARA EL 3ER COMMIT
